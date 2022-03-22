@@ -1,7 +1,7 @@
 {
   "title": "Tekst",
   "icon": "",
-  "id": "kasperId",
+  "id": "01FP2SNGFN0BZQH03KCBXHKYH0",
   "description": "Mulighed for at sætte tekst, med forskellige visninger.",
   "resources": {
     "component": "https://raw.githubusercontent.com/reload/display-templates-v2-poc/poc/build/text.js",
