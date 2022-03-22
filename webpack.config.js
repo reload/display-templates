@@ -29,6 +29,7 @@ const entry = devMode
       examples: path.resolve(__dirname, "./src/index.js"),
     }
   : {
+    "text": path.resolve(__dirname, "./src/text/text.js"),
       "book-review": path.resolve(
         __dirname,
         "./src/book-review/book-review.js"
