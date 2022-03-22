@@ -1,8 +1,8 @@
 {
-  "title": "Billede og tekst",
+  "title": "Tekst",
   "icon": "",
   "id": "01FP2SNGFN0BZQH03KCBXHKYHG",
-  "description": "Mulighed for at sætte billede og tekst, med forskellige visninger.",
+  "description": "Mulighed for at sætte tekst, med forskellige visninger.",
   "resources": {
     "component": "https://raw.githubusercontent.com/reload/display-templates-v2-poc/poc/build/text.js",
     "admin": "https://raw.githubusercontent.com/reload/display-templates-v2-poc/poc/build/text/text-admin.json",
